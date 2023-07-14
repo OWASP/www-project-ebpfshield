@@ -8,9 +8,10 @@ type:
 pitch: A very brief, one-line description of your project
 
 ---
-
+<p align="center">
+<img alt="cgapp logo" src="./ebpfshield.PNG" width="284px"/ align="center">
+</p>
 <h1 align="center">
- <a><img alt="cgapp logo" src="https://github.com/sagarbhure/certificates/blob/main/ebpf%20-%20Copy.PNG" width="284px"/></a> <br/>
   <p>Advanced IP-Intelligence & DNS Monitoring using eBPF</p>
 </h1>
 <p align="center"><b>🛡️ Advanced host monitoring and threat detection with eBPF 🛡️</b></p>
@@ -18,18 +19,14 @@ pitch: A very brief, one-line description of your project
 <p align="center"><b>eBPFShield</b> is a high-performance <b>security tool</b> that utilizes eBPF and Python to provide real-time <b>IP-Intelligence</b> and <b>DNS monitoring</b>. By executing in kernel space, eBPFShield avoids costly context switches and offers efficient <b>detection</b> and <b>prevention</b> of malicious behavior on your network through monitoring of outbound connections and comparison with <b>threat intelligence</b> feeds. 🔍 </p>
 <div align='center'>
 <a href='https://github.com/sagarbhure/eBPFShield/releases'>
-  
 <img src='https://img.shields.io/github/v/release/chroline/well_app?color=%23FDD835&label=version&style=for-the-badge'>
-  
 </a>
-  
 <a href='https://github.com/sagarbhure/eBPFShield/blob/main/LICENSE'>
-  
 <img src='https://img.shields.io/github/license/chroline/well_app?style=for-the-badge'>
 </a>
-
 </div>
 <br/><br/>
+
 <p align="left"><b>📝 Introduction</b></p>
 Welcome to eBPFShield, a powerful and intuitive security tool for monitoring and protecting your servers. Featuring both <b>IP-Intelligence</b> and <b>DNS monitoring</b> capabilities, eBPFShield utilizes the power of ebpf and python to provide real-time monitoring and actionable insights for identifying and mitigating potential threats.
 
