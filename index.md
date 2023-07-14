@@ -29,7 +29,7 @@ pitch: A very brief, one-line description of your project
 </a>
 
 </div>
-<div>
+
  ## 📝 Introduction
 
 Welcome to eBPFShield, a powerful and intuitive security tool for monitoring and protecting your servers. Featuring both <b>IP-Intelligence</b> and <b>DNS monitoring</b> capabilities, eBPFShield utilizes the power of ebpf and python to provide real-time monitoring and actionable insights for identifying and mitigating potential threats.
@@ -46,9 +46,9 @@ Say goodbye to constantly monitoring your servers with tcpdump and hello to a mo
 - Integration with popular **SIEM** systems for centralized monitoring and alerting
 - JSON output for easy integration with a **UI** dashboard
 - Detection of DNS packets on non-standard ports
-</div>
 
-<div>
+
+
  ## 🚀 Usage
  Run `python main.py` to get started. Out of the box it will not take any action, it'll just print violations as it sees them.
 
@@ -77,4 +77,4 @@ There are four actions currently supported via the `--block` flag:
 - `dump`: suspend the process, take a core dump of it for forensics, and then kill it.
 
 If you're interested in debugging, the `--verbose` flag may be useful to you. This tells the program to print all connections it sees, not just malicious ones.
-</div>
+
