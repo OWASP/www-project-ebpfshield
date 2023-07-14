@@ -10,7 +10,7 @@ pitch: A very brief, one-line description of your project
 ---
 
 <h1 align="center">
-  <img alt="cgapp logo" src="https://github.com/sagarbhure/certificates/blob/main/ebpf%20-%20Copy.PNG" width="284px"/><br/>
+ <a><img alt="cgapp logo" src="https://github.com/sagarbhure/certificates/blob/main/ebpf%20-%20Copy.PNG" width="284px"/></a> <br/>
   <p>Advanced IP-Intelligence & DNS Monitoring using eBPF</p>
 </h1>
 <p align="center"><b>🛡️ Advanced host monitoring and threat detection with eBPF 🛡️</b></p>
