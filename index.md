@@ -30,8 +30,7 @@ pitch: A very brief, one-line description of your project
 
 </div>
 
- ## 📝 Introduction
-
+<p align="left"><b>📝 Introduction</b></p>
 Welcome to eBPFShield, a powerful and intuitive security tool for monitoring and protecting your servers. Featuring both <b>IP-Intelligence</b> and <b>DNS monitoring</b> capabilities, eBPFShield utilizes the power of ebpf and python to provide real-time monitoring and actionable insights for identifying and mitigating potential threats.
 
 Say goodbye to constantly monitoring your servers with tcpdump and hello to a more efficient and automated security solution with eBPFShield.
@@ -48,8 +47,7 @@ Say goodbye to constantly monitoring your servers with tcpdump and hello to a mo
 - Detection of DNS packets on non-standard ports
 
 
-
- ## 🚀 Usage
+<p align="left"><b>🚀 Usage</b></p>
  Run `python main.py` to get started. Out of the box it will not take any action, it'll just print violations as it sees them.
 
 ```
