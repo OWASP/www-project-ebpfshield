@@ -9,7 +9,7 @@ pitch: A very brief, one-line description of your project
 
 ---
 <p align="center">
-<img alt="cgapp logo" src="./ebpfshield.PNG" width="284px"/ align="center">
+<img alt="cgapp logo" src="./ebpfshield.PNG" width="284px" align="center">
 </p>
 <h1 align="center">
   <p>Advanced IP-Intelligence & DNS Monitoring using eBPF</p>
