@@ -2,7 +2,7 @@
 
 layout: col-sidebar
 title: OWASP eBPFShield
-tags: example-tag
+tags: ebpf-tag
 level: 2
 type: 
 pitch: A very brief, one-line description of your project
