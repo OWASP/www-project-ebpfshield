@@ -3,7 +3,7 @@ title: dummy
 layout:  null
 tab: true
 order: 1
-tags: dummy-tag
+tags: tag-ebpf
 ---
 
 ## Example
