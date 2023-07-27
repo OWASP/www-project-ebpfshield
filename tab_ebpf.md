@@ -3,7 +3,7 @@ title: ebpf
 layout:  null
 tab: true
 order: 1
-tags: tag-ebpf
+tags: ebpf-tag
 ---
 
 ## Example
